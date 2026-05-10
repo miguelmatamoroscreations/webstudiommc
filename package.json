@@ -1,0 +1,11 @@
+{
+  "name": "webstudiommc",
+  "version": "1.0.0",
+  "description": "Sitio web profesional para Web Studio MMC",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000"
+  },
+  "author": "Miguel Matamoros",
+  "license": "MIT"
+}
